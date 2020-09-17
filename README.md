@@ -14,5 +14,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Mentions
+A special thanks to the contributors and maintainers of [SWGAide](https://github.com/twistedatrocity/SWGAide-NGE) for their projects which makes 
+this project possible.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
